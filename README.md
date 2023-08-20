@@ -1,4 +1,9 @@
 # TFLiteCheck
+## Build
+mkdir build  
+cd build  
+cmake ..  
+make  
 ## Dependency
 Tensorflow Lite 2.12.0  
 (https://github.com/tensorflow/tensorflow)  
