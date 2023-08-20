@@ -3,7 +3,7 @@
 mkdir build  
 cd build  
 cmake ..  
-make  
+Open .sln in Visual Studio and build  
 ## Dependency
 Tensorflow Lite 2.12.0  
 (https://github.com/tensorflow/tensorflow)  
