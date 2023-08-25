@@ -3,9 +3,8 @@
 mkdir build  
 cd build  
 cmake ..  
-Open TFLiteCheck.sln in Visual Studio and build  
+Open TFLiteCheck.sln in Visual Studio and build(release, x64)  
 ## How to run
-Make sure to build in release, x64
 Go to build\Release\
 Enter this command:
 TFLiteCheck.exe ..\\..\tfliteModel\classification\mobilenet_v1_1.0_224_quant.tflite  
