@@ -1,4 +1,6 @@
 # TFLiteCheck
+![Windows](https://img.shields.io/badge/Windows-passing-green)
+
 ## Build
 mkdir build  
 cd build  
